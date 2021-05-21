@@ -1,0 +1,28 @@
+div#ProfileImg img{
+ width: 300px;
+ float: left;
+ margin-right: 30px;
+ margin-bottom: 20px;
+ border: 9px solid;
+ border-radius: 5px;
+ border-color:rgb(143, 238, 183);
+}
+
+div#BasicInfo p{
+ font-size: 15pt;} 
+
+ div#BasicInfo img{
+     width:90px;
+     height:100px;
+     padding: 10px;
+     border: 3px double;
+     border-color:rgb(90, 131, 127);
+ }
+
+ div#footer img{
+     width: 180px;
+     height: 70px;
+     padding-right: 10px;
+     margin-left: 1px;
+ }
+
