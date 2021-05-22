@@ -1,28 +1,64 @@
+.VisibleTitle{
+    text-align: center;
+    font-size: 17pt;
+    font-family: Arial, Helvetica, sans-serif;
+    font:bold;
+    text-decoration: underline;
+}
+
+body{
+background-color:rgb(236, 236, 236) ;
+}
+
 div#ProfileImg img{
- width: 300px;
+ width: 250px;
  float: left;
  margin-right: 30px;
- margin-bottom: 20px;
- border: 9px solid;
- border-radius: 5px;
- border-color:rgb(143, 238, 183);
+ margin-bottom: 10px;
+ border: 9px hidden;
+ border-radius: 30px;
+ border-color:rgb(255, 255, 255);
 }
 
 div#BasicInfo p{
- font-size: 15pt;} 
+ font-size: 13pt;
+ font-family:Arial, Helvetica, sans-serif} 
 
  div#BasicInfo img{
-     width:90px;
-     height:100px;
+     float:left;
+     width:70px;
+     height:80px;
      padding: 10px;
-     border: 3px double;
-     border-color:rgb(90, 131, 127);
+     margin-right: 40px;
  }
 
- div#footer img{
-     width: 100px;
-     height: 70px;
-     padding-right: 10px;
-     margin-left: 1px;
+ div#InstitucionalInfo p{
+     font-size:13pt;
+     font-family:Arial, Helvetica, sans-serif;
  }
+
+ .footerText {
+     font-family:Georgia, 'Times New Roman', Times, serif;
+     font-size: 9pt;
+ }
+
+ .mined{
+     width: 80px;
+     height: 60px;
+     padding-right: 10px;
+     margin-right: 3px;
+ }
+
+ .IconPer{
+    width: 50px;
+    height: 50px;
+    margin-left: 1px;
+}
+
+.DevBy{
+    position:absolute;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 5pt;
+    bottom: 2px;
+}
 
