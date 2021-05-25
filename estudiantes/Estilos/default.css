@@ -24,12 +24,21 @@ div#BasicInfo p{
  font-size: 13pt;
  font-family:Arial, Helvetica, sans-serif} 
 
- div#BasicInfo img{
+ .INDETLog {
      float:left;
      width:70px;
      height:80px;
      padding: 10px;
      margin-right: 40px;
+ }
+
+ .DS2Log {
+     float:left;
+     width:80px;
+     height:60px;
+     padding: 10px;
+     padding-top: 15px;
+     margin-right: 30px;
  }
 
  div#InstitucionalInfo p{
